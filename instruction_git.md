@@ -67,3 +67,7 @@
 
     git checkout <hash>
 
+Чтобы вернуться к рабочему коммиту нужно ввести команду:
+
+    git checkout master
+
